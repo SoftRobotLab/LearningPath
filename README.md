@@ -62,7 +62,7 @@
 
 ## 第八周
 **气压为主** 自学液压与气压传动，了解液压系统和**气压系统**的基本工作原理，包括液压元件和气压元件的选型和设计等内容。
-学习 Git，了解版本控制的基本原理和使用方法。
+学习 Git，了解版本控制的基本原理和使用方法。[视频 P1-P40](https://www.bilibili.com/video/BV1vy4y1s7k6/?p=2&spm_id_from=pageDriver&vd_source=d3ee14ef6a5aeafdb4ae42baa01c2793)
 了解GitHub 注意区分Git与Github
 
 ### 考核内容
